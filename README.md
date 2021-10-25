@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **reactJs,nodeJs,Spring,Aws**
 
-- 📫 How to reach me **tizi.boubakei@outlook.fr**
+- 📫 How to reach me **tizi.boubakri@outlook.fr**
 
 - 📄 Know about my experiences [https://moetez-portfolio.herokuapp.com/](https://moetez-portfolio.herokuapp.com/)
 
